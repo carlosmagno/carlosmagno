@@ -26,7 +26,9 @@
 <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
 <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />         
 <img height="60" widht="60" src="/file_type_vba_icon_130097.svg">         
-          
+         
 </div>
+<img src="https://carlosmagno.github.io/IMG_20220417_094459855_HDR.jpg">
 
