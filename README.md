@@ -48,5 +48,7 @@
 <a href="https://quizbiblico-br.web.app/"><img src="img_quiz.png"></a> 
 ### **devPlay.app**
 <a href="https://devplay.app/"><img src="img_devplay.png"></a> 
+### **Meu Site Autoral**
+<a href="https://carlosmagno.github.io/"><img src="img_site_autoral.png"></a> 
 
 
