@@ -44,6 +44,9 @@
           * <spam>Site autoral onde publiquei meus poemas para a família e amigos, e links para os projetos concluídos. Terceiro projeto. Feito de modo simples.</spam> 
 
 ## **Telas**
+### **Quiz Bíblico Web**
 <a href="https://quizbiblico-br.web.app/"><img src="img_quiz.png"></a> 
+### **devPlay.app**
+<a href="https://devplay.app/"><img src="img_devplay.png"></a> 
 
 
