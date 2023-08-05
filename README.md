@@ -30,5 +30,6 @@
 <img height="60" widht="60" src="/file_type_vba_icon_130097.svg">         
          
 </div>
-<img src="https://carlosmagno.github.io/IMG_20220417_094459855_HDR.jpg">
+<!-- <img src="https://carlosmagno.github.io/IMG_20220417_094459855_HDR.jpg"> -->
+<a href="https://quizbiblico-br.web.app/"> <img src="https://quizbiblico-br.web.app/images/img_quiz_menor.png"> </a>
 
